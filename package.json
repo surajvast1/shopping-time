@@ -12,7 +12,11 @@
     s
     s
     s
-    s
+    s,
+    ,
+    ,
+    ,
+    ,
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
