@@ -14,6 +14,14 @@ import { collection, getDocs } from 'firebase/firestore/lite';
 const App = () => {
   const [activeCategory, setActiveCategory] = useState('');
   const [allCurrencies, setAllCurrencies] = useState([]);
+
+
+
+  // hjh
+
+
+
+  
   const [selectedCurrency, setSelectedCurrency] = useState('$');
   const [allProducts, setAllProducts] = useState([]);
   const [cartItems, setCartItems] = useState([]);
